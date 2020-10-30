@@ -1,1 +1,1 @@
-# mindsets.github.io
+# plaincoding.github.io
